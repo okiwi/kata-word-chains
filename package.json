@@ -1,0 +1,15 @@
+{
+  "name": "kata-19-word-chains",
+  "version": "1.0.0",
+  "description": "http://codekata.com/kata/kata19-word-chains/",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha watch"
+  },
+  "author": "",
+  "license": "WTFPL",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
